@@ -1,5 +1,5 @@
 import argparse
-API_KEY='9c76a2baaac9ca9b25e027f15cf20d56'
+API_KEY='my api key'
 BASE_URL="https://api.openweathermap.org/data/2.5/weather"
 
 # Construct API URL with query parameters 
