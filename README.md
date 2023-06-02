@@ -28,3 +28,7 @@ Python
   * Make http requests to the weather API using your api key
   * handle the API response using the requests library 
 
+# At the place of 'my api key' you will be using your own api key which you can get by signing up in the OpenWeatherMap
+  import argparse
+  API_KEY='my api key'
+  BASE_URL="https://api.openweathermap.org/data/2.5/weather"
